@@ -21,6 +21,7 @@ class App extends React.Component{
                 <Cards data={data} />
                 <CountryPicker/>
                 <Chart/>
+                <p>43:56</p>
             </div>
         )
     }
